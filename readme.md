@@ -18,8 +18,6 @@ This repository contains a FEniCS implementation of a phase-field fracture model
 * [What each part of the code does](#what-each-part-of-the-code-does)
 * [How to run the simulation](#how-to-run-the-simulation)
 * [Tuning parameters and common changes](#tuning-parameters-and-common-changes)
-* [Troubleshooting & tips](#troubleshooting--tips)
-* [Credits & license](#credits--license)
 
 ---
 
