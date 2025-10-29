@@ -1,4 +1,4 @@
-# Phase-Field Fracture — Energy-Consistent FEniCS Implementation
+# Phase-Field Fracture : Energy-Consistent FEniCS Implementation
 
 This repository contains a FEniCS implementation of a phase-field fracture model (AT2) with a set of improvements aimed at achieving good energy balance. The main script implements a staggered solver for the displacement and phase-field, implements a CG1 history function, and includes diagnostics and post-processing for load–displacement and energy balance.
 
